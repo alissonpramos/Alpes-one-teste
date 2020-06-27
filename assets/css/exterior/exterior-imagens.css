@@ -1,0 +1,21 @@
+.exterior__imagens {
+    align-items: center;
+    display: flex;
+}
+
+.exterior__imagens .vertical {
+    display: flex;
+    flex-direction: column;
+    width: 12em;
+    margin-left: 2.5rem;
+}
+
+.exterior__imagens .vertical img + img {
+    margin-top: 1rem;
+}
+
+.exterior__imagens--d {
+    margin-left: 10rem;
+}
+
+

@@ -1,0 +1,19 @@
+.faixa {
+    align-items: center;
+    background: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 0 2rem 0;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.faixa__direita h4 {
+    color: #727B7A;
+    font-size: 1rem;
+}
+
+.faixa__direita h2 {
+    color: #DF0209;
+    font-size: 1.8rem;
+}

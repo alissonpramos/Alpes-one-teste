@@ -1,0 +1,15 @@
+.cabecalho__mobile {
+    align-items: center;
+    background: #eeeeee;
+    position: fixed;
+    right: 0;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.cabecalho__mobile .menu__lista {
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,15 @@
+@media screen and (min-width: 376px) {
+    body {
+        width: 100%;
+    }
+
+    .mobile{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .desktop{
+        display: none;
+    }
+}

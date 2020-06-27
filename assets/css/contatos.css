@@ -1,0 +1,94 @@
+.contatos {
+    align-items: center;
+    background: #eeeeee;
+    display: flex;
+    flex-direction: column;
+    height: 19rem;
+}
+
+.contatos .contatosb {
+    align-content: center;
+    display: flex;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.concessionaria {
+    align-content: center;
+    align-items: center;
+    background: #ffffff;
+    border-color:#DF0209;
+    border-radius: .4rem;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    height: 6rem;
+    justify-content: center;
+    margin-right: 2.5rem;
+    width: 25rem;
+}   
+
+.concessionaria__imagem {
+    height: 4rem;
+    margin-right: 1.5rem;
+    width: 2.5rem;
+}
+
+.texto h4 {
+    color: #727B7A;
+    font-size: 1rem;
+}
+
+.texto h2 {
+    color: #DF0209;
+    font-size: 1.8rem;
+}
+
+
+.atendimento {
+    align-content: center;
+    align-items: center;
+    background: #ffffff;
+    border-color:#DF0209;
+    border-radius: .4rem;
+    border-style: solid;
+    display: flex;
+    flex-direction: column;
+    height: 6rem;
+    justify-content: center;
+    width: 25rem;
+}
+
+.atendimento h4 {
+    color: #727B7A;
+    font-size: 1rem;
+    font-style: italic;
+
+}
+
+.atendimento h2 {
+    color: #DF0209;
+    font-size: 1.8rem;
+    font-style: italic;
+}
+
+.redes {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.redes__titulo {
+    font-size: 2rem;
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+.icones__imagem {
+    height: 3.5rem;
+    width: 3.5rem;
+}
+
+.redes .icones img+img {
+    margin-left: 1rem;
+}

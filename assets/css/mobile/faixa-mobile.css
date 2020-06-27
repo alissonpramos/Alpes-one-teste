@@ -1,0 +1,42 @@
+.faixa__mobile {
+    align-items: center;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.faixa__mobile .faixa__titulo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-top: 2rem;
+
+    color: #727B7A;
+    font-size: 0.7rem;
+}
+
+.faixa__mobile .faixa__imagemm {
+    height: 4rem;
+    margin-top: 5rem;
+    width: 15rem;
+}
+
+.faixa__mobile .faixa__titulo h4 {
+    font-size: 1rem;
+}
+
+.faixa__mobile .faixa__titulo .telefone {
+    font-size: 1.9rem;
+}
+
+.telefone {
+    color: #DF0209;
+    font-size: 1.4rem;
+}
+
+.faixa__mobile .marca {
+    margin-top: 1rem;
+    margin-bottom: 1.3rem;
+}

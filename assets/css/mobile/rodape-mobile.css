@@ -1,0 +1,18 @@
+.rodape__mobile {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 2rem 0rem 6rem 0rem;
+    height: 100px;
+    width: 100%;
+}
+
+.rodape__mobile .rodape__banzai {
+    height: 40px;
+    margin-bottom: 2rem;
+}
+
+.rodape__mobile .ibama {
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,6 @@
+.menu__lista {
+    display: flex;
+    width: 95vw;
+    justify-content: space-between;
+
+}
